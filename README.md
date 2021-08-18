@@ -43,9 +43,10 @@ Following are the required libraries to run the program:-
 Starting with the implementation, firstly I am importing the dataset and performing pre-processing steps. In pre-processing, Normalization, Grayscale to RGB, and Resizing of each image is done. As I mentioned above that in the previous work of this field neither anyone tried to enhance the dataset by converting grayscale image into RGB nor tried to resize the image for high resolution. Therefore I am resizing the image from 48x48 pixels to 128x128 pixels. After then I am using 4 pretrained models along with the ImageNet database for feature extraction and finally training the whole network. At last, testing takes place where all the testing images are predicted.</p>
 
 # Results
-<p> The below images displays the results attained after performing through research in the field and the proposed implementation
- ![CV Presentation (1)](https://user-images.githubusercontent.com/44722997/129967704-d318fca8-eefc-4bae-8776-7bdcf0b55755.png)</p>
+The below image displays the results attained after performing thorough research in the field and the outcomes from the proposed implementation <br>
+
+ ![CV Presentation (1)](https://user-images.githubusercontent.com/44722997/129967704-d318fca8-eefc-4bae-8776-7bdcf0b55755.png)
  
 # Conclusion 
-The project compares different pretrained models of deep learning for facial emotion detection and determines which model can predict emotions better. Thus, this method may also assist other researchers or developers in creating a model which has the high computational power to predict features very precisely. 
+The project compares different pretrained models of deep learning for facial emotion detection and determines which model can predict emotions better. Thus, this method may also assist other researchers or developers in creating a model which has the high computational power to predict features more precisely. 
   
