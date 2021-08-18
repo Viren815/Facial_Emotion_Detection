@@ -49,4 +49,13 @@ The below image displays the results attained after performing thorough research
  
 # Conclusion 
 The project compares different pretrained models of deep learning for facial emotion detection and determines which model can predict emotions better. Thus, this method may also assist other researchers or developers in creating a model which has the high computational power to predict features more precisely. 
+
+# References
+1) S. (2019, November 27). Facial Expression Detection (CNN). Kaggle. https://www.kaggle.com/shawon10/facial-expression-detection-cnn
+
+2) J. (2019a, January 3). Face expression recognition with Deep Learning. Kaggle. https://www.kaggle.com/jonathanoheix-face-expression-recognition-with-deep-learning
+
+3) G. (2020, April 18). Facial Emotion Recognition. Kaggle. https://www.kaggle.com/gauravsharma99/facial-emotion-recognition
+
+4) https://gist.github.com/Nabeel110/01210a28cbd8b53c13b42330abc253ad
   
