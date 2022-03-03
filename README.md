@@ -1,6 +1,3 @@
-Name : Viren Shah <br>
-Id: 1152974 <br>
-University: Lakehead University <br>
 
 # Facial_Emotion_Detection
 # Introduction 
